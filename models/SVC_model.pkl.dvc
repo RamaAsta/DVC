@@ -1,0 +1,5 @@
+outs:
+- md5: 78fe3924a741bbc84b9f55ecaef090f7
+  size: 28523
+  hash: md5
+  path: SVC_model.pkl
